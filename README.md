@@ -15,6 +15,11 @@ CORRESP, ÍNDICE, CONT.SE, MÍNIMOSES, SOMASES. CONT.VALORES.
 
 <img width="1404" height="857" alt="image" src="https://github.com/user-attachments/assets/ce902af0-2565-4944-829b-02faf06c05fa" />
 
+## Atividade Análise Sorvete:
+
+<img width="1424" height="838" alt="image" src="https://github.com/user-attachments/assets/6be245b4-2368-4bbb-8f16-bce37933d48b" />
+
+
 
 
 
