@@ -19,6 +19,11 @@ CORRESP, ÍNDICE, CONT.SE, MÍNIMOSES, SOMASES. CONT.VALORES.
 
 <img width="1424" height="838" alt="image" src="https://github.com/user-attachments/assets/6be245b4-2368-4bbb-8f16-bce37933d48b" />
 
+## Atividade SalaryData:
+
+<img width="1436" height="758" alt="image" src="https://github.com/user-attachments/assets/ee3ac6b7-389f-4fa6-ae80-8f382190dbb2" />
+
+
 
 
 
