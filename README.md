@@ -13,6 +13,9 @@ CORRESP, ÍNDICE, CONT.SE, MÍNIMOSES, SOMASES. CONT.VALORES.
 
 ## Atividade sobre Regressão Linear:
 
+<img width="1404" height="857" alt="image" src="https://github.com/user-attachments/assets/ce902af0-2565-4944-829b-02faf06c05fa" />
+
+
 
 
 
